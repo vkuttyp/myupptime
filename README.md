@@ -1,3 +1,6 @@
+Yutube video tutorial: https://www.youtube.com/watch?v=n_Fc7BHM-yE
+
+
 # [📈 Live Status](https://vkuttyp.github.io/myupptime): <!--live status--> **🟩 All systems operational**
 
 This repository contains the open-source uptime monitor and status page for [Kutty](https://vkuttyp.github.io/myupptime), powered by [Upptime](https://github.com/upptime/upptime).
