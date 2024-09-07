@@ -10,7 +10,7 @@ sites:
   - name: customersnginx
     url: https://customers.iserveus.com
   - name: customersapiwinserver
-    url: https://customers.iserveus.com/api/values
+    url: http://94.23.2.106:5287/api/values
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
