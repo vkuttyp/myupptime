@@ -59,18 +59,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/customers.iserveus.com.ico",
     "slug": "customersapiwinserver",
     "status": "up",
-    "uptime": "1.15%",
-    "uptimeDay": "1.15%",
-    "uptimeWeek": "1.15%",
-    "uptimeMonth": "1.15%",
-    "uptimeYear": "1.15%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 90,
     "timeDay": 90,
     "timeWeek": 90,
     "timeMonth": 90,
     "timeYear": 90,
-    "dailyMinutesDown": {
-      "2024-09-07": 6
-    }
+    "dailyMinutesDown": {}
   }
 ]
