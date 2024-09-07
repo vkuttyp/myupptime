@@ -7,8 +7,11 @@ sites:
     url: https://nakhlasalama.com
   - name: murshisoft
     url: https://murshisoft.com
-  - name: customersapi
-    url: https://customers.iserveus.com/api/values
+  - name: customersnginx
+    url: https://customers.iserveus.com
+  - name: customersapiwinserver
+    url: zatca.iserveus.com/api/values
+    port: 5287
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
