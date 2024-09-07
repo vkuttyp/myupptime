@@ -7,6 +7,8 @@ sites:
     url: https://nakhlasalama.com
   - name: murshisoft
     url: https://murshisoft.com
+  - name: customersapi
+    url: https://customers.iserveus.com/api/values
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
