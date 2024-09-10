@@ -1,5 +1,7 @@
 Yutube video tutorial: https://www.youtube.com/watch?v=n_Fc7BHM-yE
-Getting Started: https://upptime.js.org/docs/get-started
+
+# Getting Started:
+https://upptime.js.org/docs/get-started
 
 # [📈 Live Status](https://vkuttyp.github.io/myupptime): <!--live status--> **🟩 All systems operational**
 
