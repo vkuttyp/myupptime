@@ -22,7 +22,7 @@
     "url": "https://murshisoft.com",
     "icon": "https://icons.duckduckgo.com/ip3/murshisoft.com.ico",
     "slug": "murshisoft",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -33,7 +33,9 @@
     "timeWeek": 409,
     "timeMonth": 409,
     "timeYear": 409,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-09-12": 0
+    }
   },
   {
     "name": "customersnginx",
