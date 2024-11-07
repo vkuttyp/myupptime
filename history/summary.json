@@ -4,10 +4,10 @@
     "url": "https://nakhlasalama.com",
     "icon": "https://icons.duckduckgo.com/ip3/nakhlasalama.com.ico",
     "slug": "nakhlasalama",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 568,
@@ -15,25 +15,28 @@
     "timeWeek": 671,
     "timeMonth": 583,
     "timeYear": 568,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-11-07": 1
+    }
   },
   {
     "name": "murshisoft",
     "url": "https://murshisoft.com",
     "icon": "https://icons.duckduckgo.com/ip3/murshisoft.com.ico",
     "slug": "murshisoft",
-    "status": "up",
-    "uptime": "96.71%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "status": "down",
+    "uptime": "96.75%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "96.71%",
+    "uptimeYear": "96.75%",
     "time": 487,
     "timeDay": 725,
     "timeWeek": 599,
     "timeMonth": 520,
     "timeYear": 487,
     "dailyMinutesDown": {
+      "2024-11-07": 1,
       "2024-09-14": 1288,
       "2024-09-13": 1440,
       "2024-09-12": 178
@@ -44,7 +47,7 @@
     "url": "$CUSTOMERNGINX",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "customersnginx",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -55,7 +58,9 @@
     "timeWeek": 429,
     "timeMonth": 419,
     "timeYear": 421,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-11-07": 0
+    }
   },
   {
     "name": "customersapiwinserver",
