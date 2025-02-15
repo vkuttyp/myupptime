@@ -4,19 +4,19 @@
     "url": "https://nakhlasalama.com",
     "icon": "https://icons.duckduckgo.com/ip3/nakhlasalama.com.ico",
     "slug": "nakhlasalama",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.55%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 568,
-    "timeDay": 717,
-    "timeWeek": 659,
-    "timeMonth": 575,
-    "timeYear": 568,
+    "time": 566,
+    "timeDay": 444,
+    "timeWeek": 598,
+    "timeMonth": 562,
+    "timeYear": 566,
     "dailyMinutesDown": {
-      "2025-02-15": 0
+      "2025-02-15": 7
     }
   },
   {
