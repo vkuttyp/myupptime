@@ -4,7 +4,7 @@
     "url": "https://nakhlasalama.com",
     "icon": "https://icons.duckduckgo.com/ip3/nakhlasalama.com.ico",
     "slug": "nakhlasalama",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 659,
     "timeMonth": 575,
     "timeYear": 568,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-02-15": 0
+    }
   },
   {
     "name": "murshisoft",
