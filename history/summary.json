@@ -6,18 +6,16 @@
     "slug": "nakhlasalama",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.55%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 566,
     "timeDay": 444,
     "timeWeek": 598,
     "timeMonth": 562,
     "timeYear": 566,
-    "dailyMinutesDown": {
-      "2025-02-15": 7
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "murshisoft",
@@ -47,18 +45,20 @@
     "url": "$CUSTOMERNGINX",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "customersnginx",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 431,
-    "timeDay": 542,
-    "timeWeek": 503,
-    "timeMonth": 442,
-    "timeYear": 431,
-    "dailyMinutesDown": {}
+    "time": 447,
+    "timeDay": 1833,
+    "timeWeek": 831,
+    "timeMonth": 525,
+    "timeYear": 447,
+    "dailyMinutesDown": {
+      "2025-02-15": 0
+    }
   },
   {
     "name": "customersapiwinserver",
@@ -67,12 +67,12 @@
     "slug": "customersapiwinserver",
     "status": "up",
     "uptime": "99.96%",
-    "uptimeDay": "97.66%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.37%",
     "uptimeMonth": "99.85%",
     "uptimeYear": "99.96%",
     "time": 333,
-    "timeDay": 8304,
+    "timeDay": 298,
     "timeWeek": 2142,
     "timeMonth": 746,
     "timeYear": 333,
