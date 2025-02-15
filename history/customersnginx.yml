@@ -1,7 +1,7 @@
 url: $CUSTOMERNGINX
 status: down
-code: 502
-responseTime: 3123
-lastUpdated: 2025-02-15T17:36:57.686Z
+code: 404
+responseTime: 144
+lastUpdated: 2025-02-15T23:03:55.327Z
 startTime: 2024-09-07T14:14:09.095Z
 generator: Upptime <https://github.com/upptime/upptime>
