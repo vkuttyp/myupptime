@@ -1,7 +1,7 @@
 url: $MYAPISERVER
 status: down
 code: 502
-responseTime: 142
-lastUpdated: 2025-04-17T23:04:31.188Z
+responseTime: 102
+lastUpdated: 2025-04-18T23:04:35.515Z
 startTime: 2024-09-07T14:14:09.726Z
 generator: Upptime <https://github.com/upptime/upptime>
